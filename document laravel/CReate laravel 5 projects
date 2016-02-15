@@ -1,0 +1,27 @@
+composer create-project laravel/laravel test-laravel-5-project --prefer-dist
+
+https://github.com/pawanpandeyenuke/laravel
+
+Remove git repsitory->
+    find -type d -name '.git' -exec rm -rfv {} \;
+
+
+Git laravel 5 repository->
+    https://github.com/laravel/laravel.git
+
+
+CPanel Details ->
+
+	https://gator175.hostgator.com:2083/cpsess2841508404/frontend/x3/index.php
+	Username- enuke
+	Password- ec3iPiS^gwf2
+
+
+Install Composer->
+	curl -sS https://getcomposer.org/installer | sudo php -- --install-dir=/usr/local/bin --filename=composer
+
+
+Friend Square Domain->
+	fs.yiipro.com
+	db name- enuke_friendsquare
+

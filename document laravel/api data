@@ -1,0 +1,87 @@
+echo '<pre>';print_r();die;
+
+http://development.laravel.com/api/signin
+http://fs.yiipro.com/api/signin
+
+{
+"email":"testuser@gmail.com",
+"password":"Enuke123"
+}
+
+http://development.laravel.com/api/signup
+http://fs.yiipro.com/api/signup
+ 
+{
+    "first_name" : "Test",
+    "last_name" : "User",
+    "email" : "testuser@gmail.com",
+    "password" : "Enuke123",
+    "country" : "10",
+    "state" : "UP",
+    "city" : "Noida",
+    "phone_no" : "9898989898",
+    "birthday" : "03-07-1988",
+    "gender" : "M"
+}
+
+
+
+
+http://development.laravel.com/api/countries
+http://fs.yiipro.com/api/countries
+
+
+
+http://development.laravel.com/api/states
+http://fs.yiipro.com/api/states
+
+{
+"country_id":"33"
+}
+
+
+
+http://development.laravel.com/api/cities
+http://fs.yiipro.com/api/cities
+{
+"state_id":"33"
+}
+
+
+http://development.laravel.com/api/social-login/facebook
+http://fs.yiipro.com/api/social-login
+
+
+http://development.laravel.com/api/forget-Password
+http://fs.yiipro.com
+
+{
+"email":"pawan.pandey@enukesoftware.com"
+}
+
+
+
+http://development.laravel.com/api/social-login
+
+{
+	"id" : "80934534H353KJ",
+	"type" : "facebook",
+    "first_name" : "Test",
+    "last_name" : "User",
+    "email" : "testuser@gmail.com",
+    "password" : "Enuke123",
+    "country" : "10",
+    "state" : "UP",
+    "city" : "Noida",
+    "phone_no" : "9898989898",
+    "birthday" : "03-07-1988",
+    "gender" : "M"
+}
+
+
+
+
+
+
+
+
